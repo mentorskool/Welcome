@@ -5,6 +5,12 @@ This is **me** : <br>
 ![Amit Choudhary](https://github.com/mentorskool/welcome/blob/master/imgs/profile.png?raw=true) <br><br>
 I welcome all you **self-driven learners** to my open learning initiative as we embark on a roller coaster ride towards upskilling ourselves
 
+
+### The Idea of Mentorskool
+--------------------------
+<iframe width="800" height="400" src="https://www.youtube.com/embed/HPYpe7ytdQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ### What's the repo all about?
 -------------------------------
 * This repository contains all help materials to know about Mentorskool
@@ -33,10 +39,6 @@ I welcome all you **self-driven learners** to my open learning initiative as we 
   allowFullScreen="true">Loading…
 </iframe>
 
-
-### The idea of Mentorskool
---------------------------
-<iframe width="800" height="400" src="https://www.youtube.com/embed/HPYpe7ytdQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Funlearn | Quiz
 --------------------
