@@ -8,7 +8,7 @@ I welcome all you **self-driven learners** to my open learning initiative as we 
 
 ### The Idea of Mentorskool
 --------------------------
-<iframe width="800" height="400" src="https://www.youtube.com/embed/HPYpe7ytdQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/embed/HPYpe7ytdQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### What's the repo all about?
