@@ -22,6 +22,17 @@ I welcome all you **self-driven learners** to my open learning initiative as we 
 <img src="https://github.com/mentorskool/Welcome/blob/master/imgs/python.jpg?raw=true" width="100" height="100">
 
 
+### Test Dashboard
+--------------------------
+<iframe src="https://app.powerbi.com/view?r=eyJrIjoiZTIzYWUzMmEtZDA2OS00NzJhLWE5ZDgtZWQ0YzIxZGY2ZTBjIiwidCI6IjY1YzRiOGJiLWExZWYtNDY5Mi04NjQwLWEzMTVkN2NhMWE1MyJ9"
+ width="800"
+ height="600" 
+ frameborder="0"
+  marginheight="0" 
+  marginwidth="0"
+  allowFullScreen="true">Loading…
+</iframe>
+
 ### Funlearn | Quiz
 --------------------
 Whether you are starting in Data Analytics or are already on board, quizzes are always fun to take. Don't think about score, think about your takeaway from each. Here we go :
