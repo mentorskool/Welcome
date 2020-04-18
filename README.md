@@ -36,7 +36,7 @@ I welcome all you **self-driven learners** to my open learning initiative as we 
 
 ### The idea of Mentorskool
 --------------------------
-<iframe src="https://youtu.be/HPYpe7ytdQw" 
+<iframe src="https://www.youtube.com/embed/HPYpe7ytdQw" 
 frameborder="0" 
 width="800" 
 height="500" 
