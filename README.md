@@ -33,6 +33,18 @@ I welcome all you **self-driven learners** to my open learning initiative as we 
   allowFullScreen="true">Loading…
 </iframe>
 
+
+### Test Slides
+--------------------------
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQicoSq0ahKmXBepvJlJ98UA15iB7HsL8yb-SGRy-DkcGeDVcNmVlQZNV3uHVUznrlxcNu3_cLlhmdC/embed?start=false&loop=false&delayms=3000" 
+frameborder="0" 
+width="800" 
+height="500" 
+allowfullscreen="true" 
+mozallowfullscreen="true" 
+webkitallowfullscreen="true"></iframe>
+
+
 ### Funlearn | Quiz
 --------------------
 Whether you are starting in Data Analytics or are already on board, quizzes are always fun to take. Don't think about score, think about your takeaway from each. Here we go :
