@@ -8,7 +8,7 @@ I welcome all you **self-driven learners** to my open learning initiative as we 
 
 ### The Idea of Mentorskool
 --------------------------
-<iframe width="900" height="500" src="https://www.youtube.com/embed/HPYpe7ytdQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://www.youtube.com/embed/HPYpe7ytdQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### What's the repo all about?
@@ -29,6 +29,16 @@ I welcome all you **self-driven learners** to my open learning initiative as we 
 <img src="https://github.com/mentorskool/Welcome/blob/master/imgs/python.jpg?raw=true" width="100" height="100">
 
 
+### Soft skills covered
+-------------------------------
+* Problem Solving
+* Critical Thinking
+* Storyboarding
+* Presentation
+* Communication
+* Collaboration
+
+
 ### Test Dashboard
 --------------------------
 <iframe src="https://app.powerbi.com/view?r=eyJrIjoiZTIzYWUzMmEtZDA2OS00NzJhLWE5ZDgtZWQ0YzIxZGY2ZTBjIiwidCI6IjY1YzRiOGJiLWExZWYtNDY5Mi04NjQwLWEzMTVkN2NhMWE1MyJ9"
@@ -39,6 +49,18 @@ I welcome all you **self-driven learners** to my open learning initiative as we 
   marginwidth="0"
   allowFullScreen="true">Loading…
 </iframe>
+
+
+### Test Slides
+--------------------------
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQicoSq0ahKmXBepvJlJ98UA15iB7HsL8yb-SGRy-DkcGeDVcNmVlQZNV3uHVUznrlxcNu3_cLlhmdC/embed?start=false&loop=false&delayms=3000" 
+frameborder="0" 
+width="800" 
+height="500" 
+allowfullscreen="true" 
+mozallowfullscreen="true" 
+webkitallowfullscreen="true"></iframe>
+
 
 
 ### Funlearn | Quiz
