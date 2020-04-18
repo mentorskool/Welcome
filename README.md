@@ -34,9 +34,9 @@ I welcome all you **self-driven learners** to my open learning initiative as we 
 </iframe>
 
 
-### Test Slides
+### The idea of Mentorskool
 --------------------------
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQicoSq0ahKmXBepvJlJ98UA15iB7HsL8yb-SGRy-DkcGeDVcNmVlQZNV3uHVUznrlxcNu3_cLlhmdC/embed?start=false&loop=false&delayms=3000" 
+<iframe src="https://youtu.be/HPYpe7ytdQw" 
 frameborder="0" 
 width="800" 
 height="500" 
