@@ -24,7 +24,7 @@ I welcome all you **self-driven learners** to my open learning initiative as we 
 --------------------------
 <img src="https://github.com/mentorskool/Welcome/blob/master/imgs/azure-sql.png?raw=true" width="100" height="100">
 <img src="https://github.com/mentorskool/Welcome/blob/master/imgs/aws.png?raw=true" width="100" height="60">
-<img src="https://github.com/mentorskool/Welcome/blob/master/imgs/azure.png?raw=true" width="100" height="80">
+<img src="https://github.com/mentorskool/Welcome/blob/master/imgs/azure.png?raw=true" width="100" height="100">
 <img src="https://github.com/mentorskool/Welcome/blob/master/imgs/power-bi.png?raw=true" width="100" height="100">
 <img src="https://github.com/mentorskool/Welcome/blob/master/imgs/python.jpg?raw=true" width="100" height="100">
 
