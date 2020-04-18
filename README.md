@@ -36,14 +36,7 @@ I welcome all you **self-driven learners** to my open learning initiative as we 
 
 ### The idea of Mentorskool
 --------------------------
-<iframe src="https://www.youtube.com/embed/HPYpe7ytdQw" 
-frameborder="0" 
-width="800" 
-height="500" 
-allowfullscreen="true" 
-mozallowfullscreen="true" 
-webkitallowfullscreen="true"></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HPYpe7ytdQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Funlearn | Quiz
 --------------------
