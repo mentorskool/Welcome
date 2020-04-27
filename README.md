@@ -59,11 +59,11 @@ Now, based on where you stand today, pick the topics most relevant to you from b
 * <a href="https://colab.research.google.com/github/mentorskool/Welcome/blob/master/learnbooks/04.Data-Fundamentals/relational-data-modelling.ipynb" target="_blank">Relational Data Modelling</a> - Talks about the what, why and how of entities, relations and data modelling
 
 
-#### Module 1 | Problem Analysis
+#### Module 2 | Problem Analysis
 * <a href="https://colab.research.google.com/github/mentorskool/Welcome/blob/master/learnbooks/03.Problem Analysis/problem-analysis.ipynb" target="_blank">Problem Breakdown</a> - Learn mind maps as a simple technique to breakdown your problem into small solvable components. Helps build your thought process overall!
 
 
-#### Module 2 | Data Ingestion
+#### Module 3 | Data Ingestion
 * <a href="https://colab.research.google.com/github/mentorskool/Welcome/blob/master/learnbooks/05.Data-Ingestion/web-scraping.ipynb" target="_blank">Learn to scrape the web</a> - 'Internet is your database'. To realise the same, its imperative that you know how to fetch any data on a web page using Python
 
 
