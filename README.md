@@ -39,29 +39,6 @@ I welcome all you **self-driven learners** to my open learning initiative as we 
 * Collaboration
 
 
-### Test Dashboard
---------------------------
-<iframe src="https://app.powerbi.com/view?r=eyJrIjoiZTIzYWUzMmEtZDA2OS00NzJhLWE5ZDgtZWQ0YzIxZGY2ZTBjIiwidCI6IjY1YzRiOGJiLWExZWYtNDY5Mi04NjQwLWEzMTVkN2NhMWE1MyJ9"
- width="800"
- height="600" 
- frameborder="0"
-  marginheight="0" 
-  marginwidth="0"
-  allowFullScreen="true">Loading…
-</iframe>
-
-
-### Test Slides
---------------------------
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQicoSq0ahKmXBepvJlJ98UA15iB7HsL8yb-SGRy-DkcGeDVcNmVlQZNV3uHVUznrlxcNu3_cLlhmdC/embed?start=false&loop=false&delayms=3000" 
-frameborder="0" 
-width="800" 
-height="500" 
-allowfullscreen="true" 
-mozallowfullscreen="true" 
-webkitallowfullscreen="true"></iframe>
-
-
 
 ### Funlearn | Quiz
 --------------------
@@ -80,6 +57,11 @@ Now, based on where you stand today, pick the topics most relevant to you from b
 #### Module 1 | Data Fundamentals
 * <a href="https://colab.research.google.com/github/mentorskool/Welcome/blob/master/learnbooks/01.Getting-Started/breaking-the-ice.ipynb" target="_blank">Introduction</a> - Talks about the what, why and how at a high level. Good starting point!
 * <a href="https://colab.research.google.com/github/mentorskool/Welcome/blob/master/learnbooks/04.Data-Fundamentals/relational-data-modelling.ipynb" target="_blank">Relational Data Modelling</a> - Talks about the what, why and how of entities, relations and data modelling
+
+
+#### Module 1 | Problem Analysis
+* <a href="https://colab.research.google.com/github/mentorskool/Welcome/blob/master/learnbooks/03.Problem Analysis/problem-analysis.ipynb" target="_blank">Problem Breakdown</a> - Learn mind maps as a simple technique to breakdown your problem into small solvable components. Helps build your thought process overall!
+
 
 #### Module 2 | Data Ingestion
 * <a href="https://colab.research.google.com/github/mentorskool/Welcome/blob/master/learnbooks/05.Data-Ingestion/web-scraping.ipynb" target="_blank">Learn to scrape the web</a> - 'Internet is your database'. To realise the same, its imperative that you know how to fetch any data on a web page using Python
