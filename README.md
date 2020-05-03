@@ -26,6 +26,13 @@ Start <a href="https://forms.gle/Bw2qAgYWVEZwGuy47" target="_blank">**here**</a>
 
 
 
+### Step 4 : One-on-One Connect
+-------------------------------
+* Congrats! You are just a step away from starting your project. At Mentorskool, we believe nothing beats the value of a face-to-face connect. We conduct quick 15 min sessions with all the new joinees on Sundays. Hold on till someone reaches out to you on slack. <br>
+**Don't Worry!** We value your time! <br><br>
+
+
+
 ### Technologies covered
 --------------------------
 <img src="https://github.com/mentorskool/Welcome/blob/master/imgs/azure-sql.png?raw=true" width="100" height="100">
