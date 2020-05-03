@@ -16,13 +16,13 @@ To start with, let's go through the below steps to get you onboarded :
 
 ### Step 2 : Sneak peek into our projects
 -------------------------------
-* At Mentorskool, we believe that humans are innately creative and the best learning is achieved by testing real waters. So without wasting time, we present you a quick look at the projects we are currently working on.(Check <a href="https://github.com/mentorskool/Welcome/blob/master/docs/Projects-Repo.pdf" target="_blank">**here**</a>) <br>
+* At Mentorskool, we believe that humans are innately creative and the best learning is achieved by testing real waters. So without wasting time, we present you a quick look at the projects we are currently working on.(Check <a href="https://github.com/mentorskool/Welcome/blob/master/docs/Projects-Repo.pdf" target="_blank">**here**</a>) <br><br>
 
 
 ### Step 3 : Understanding your better!
 -------------------------------
 * Convinced with what we are doing? If this excites you go ahead and let us know a bit about yourself! <br>
-Start <a href="https://forms.gle/Bw2qAgYWVEZwGuy47" target="_blank">**here**</a>
+Start <a href="https://forms.gle/Bw2qAgYWVEZwGuy47" target="_blank">**here**</a> <br><br>
 
 
 
