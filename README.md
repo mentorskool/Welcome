@@ -5,19 +5,25 @@ This is **me** : <br>
 ![Amit Choudhary](https://github.com/mentorskool/welcome/blob/master/imgs/profile.png?raw=true) <br><br>
 I welcome all you **self-driven learners** to my open learning initiative as we embark on a roller coaster ride towards upskilling ourselves
 
+To start with, let's go through the below steps to get you onboarded :
 
-### The Idea of Mentorskool
+### Step 1 : Vision of Mentorskool
 --------------------------
+* At Mentorskool, we are passionate about nurturing wholesome problem solvers driven by data. It takes more than a **Machine Learning** or **Deep Learning** to build problem solvers of tomorrow. Have a look at the video below to embrace our Vision. <br>
+
 <iframe width="800" height="500" src="https://www.youtube.com/embed/HPYpe7ytdQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### What's the repo all about?
+### Step 2 : Sneak peek into our projects
 -------------------------------
-* This repository contains all help materials to know about Mentorskool
-	* **What** do we do here?
-	* **Why** you should be here?
-	* Why **Data Analytics** is an exciting field to be in for the **curious minds!**
-	* Learning paths available at Mentorskool
+* At Mentorskool, we believe that humans are innately creative and the best learning is achieved by testing real waters. So without wasting time, we present you a quick look at the projects we are currently working on.(Check <a href="https://github.com/mentorskool/Welcome/blob/master/docs/Projects-Repo.pdf" target="_blank">**here**</a>) <br>
+
+
+### Step 3 : Understanding your better!
+-------------------------------
+* Convinced with what we are doing? If this excites you go ahead and let us know a bit about yourself! <br>
+Start <a href="https://forms.gle/Bw2qAgYWVEZwGuy47" target="_blank">**here**</a>
+
 
 
 ### Technologies covered
