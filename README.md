@@ -14,6 +14,11 @@ To start with, let's go through the below steps to get you onboarded :
 <iframe width="800" height="500" src="https://www.youtube.com/embed/HPYpe7ytdQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+
+* Let's see how our typical **Skill Tree** looks like for our **Data Analysts** <br>
+<iframe width="800" height="500" src="https://app.powerbi.com/view?r=eyJrIjoiNTQ2ODE4YTItZmEwOS00ZDcwLWEzMjgtMmExYmMxNzMzYzI5IiwidCI6IjY1YzRiOGJiLWExZWYtNDY5Mi04NjQwLWEzMTVkN2NhMWE1MyJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+
+
 ### Step 2 : Sneak peek into our projects
 -------------------------------
 * At Mentorskool, we believe that humans are innately creative and the best learning is achieved by testing real waters. So without wasting time, we present you a quick look at the projects we are currently working on.(Check <a href="https://github.com/mentorskool/Welcome/blob/master/docs/Projects-Repo.pdf" target="_blank">**here**</a>) <br><br>
