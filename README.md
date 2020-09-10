@@ -16,7 +16,7 @@ To start with, let's go through the below steps to get you onboarded :
 
 
 * Let's see how our typical **Skill Tree** looks like for our **Data Analysts** <br>
-<iframe width="1200" height="500" src="https://app.powerbi.com/view?r=eyJrIjoiNTQ2ODE4YTItZmEwOS00ZDcwLWEzMjgtMmExYmMxNzMzYzI5IiwidCI6IjY1YzRiOGJiLWExZWYtNDY5Mi04NjQwLWEzMTVkN2NhMWE1MyJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="1000" height="500" src="https://app.powerbi.com/view?r=eyJrIjoiNTQ2ODE4YTItZmEwOS00ZDcwLWEzMjgtMmExYmMxNzMzYzI5IiwidCI6IjY1YzRiOGJiLWExZWYtNDY5Mi04NjQwLWEzMTVkN2NhMWE1MyJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
 
 
 ### Step 2 : Sneak peek into our projects
