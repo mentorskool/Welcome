@@ -14,11 +14,11 @@ To start with, let's go through the below steps to get you onboarded :
 <iframe width="800" height="500" src="https://www.youtube.com/embed/HPYpe7ytdQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
+<!--
 * Let's see how our typical **Skill Tree** looks like for our **Data Analysts** <br>
 
-<iframe width="1000" height="500" src="https://app.powerbi.com/view?r=eyJrIjoiZWI5NTcwNzktZTI2MC00MzM4LWFiNzEtZjc3ODQ1ODQ1MmUyIiwidCI6IjY1YzRiOGJiLWExZWYtNDY5Mi04NjQwLWEzMTVkN2NhMWE1MyJ9" frameborder="0" allowFullScreen="true"></iframe>
-
+<iframe width="1000" height="500s" src="https://app.powerbi.com/view?r=eyJrIjoiZWI5NTcwNzktZTI2MC00MzM4LWFiNzEtZjc3ODQ1ODQ1MmUyIiwidCI6IjY1YzRiOGJiLWExZWYtNDY5Mi04NjQwLWEzMTVkN2NhMWE1MyJ9" frameborder="0" allowFullScreen="true"></iframe>
+-->
 
 ### Step 2 : Sneak peek into our projects
 -------------------------------
